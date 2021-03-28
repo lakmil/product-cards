@@ -18,7 +18,7 @@ class App extends Component {
   
   state = {
     data: [],
-    minPrice: 0,
+    minPrice: 300,
     maxPrice: 1000,
     selectedCategories: [],
   }
